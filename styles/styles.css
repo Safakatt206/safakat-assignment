@@ -1,8 +1,19 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;}
+  
+  
+.body-1{
+    margin: 0;
+}
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 50px 0 50px;
 }
+    
 .btn-primary{
     border: 1px;
     border-color: #006A50;
@@ -11,4 +22,41 @@ nav{
     border-radius: 5px;
     font-weight: bold;
     color: #006A50;
+}
+.banner{
+    display: flex;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+    justify-content: space-between;
+    margin: 0 50px 0 50px;
+    
+}
+.banner-content{
+    max-width: 622px ;
+    margin: 30px 10px;
+}
+.banner-pic{
+    width: 580px
+     
+}
+.f-1{
+    width: 622px 29px;
+    color: #0E0E0E;
+    margin: 10px 10px 0 0px;
+}
+.f-2{
+    width: 622px 201px;
+    margin: 10px 20px 50px 0px;
+}
+.btm-high{
+    width: 270px 100px;
+    background-color:#006A50;
+    color: #FFFFFF;
+    border-color: #006A50;
+    border-radius: 5px;
+    margin-right: 10px; 
+    padding: 10px 20px;
+    border: 1px;
+    
+    
 }
