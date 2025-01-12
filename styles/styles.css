@@ -1,7 +1,11 @@
 .fira-sans-thin {
     font-family: "Fira Sans", serif;
     font-weight: 100;
-    font-style: normal;}
+    font-style: normal;
+    
+
+}
+    
   
   
 .body-1{
@@ -11,7 +15,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 50px 0 50px;
+    
 }
     
 .btn-primary{
@@ -28,7 +32,7 @@ nav{
     background-color: #C6E4D6;
     border-radius: 10px;
     justify-content: space-between;
-    margin: 0 50px 0 50px;
+    
     
 }
 .banner-content{
@@ -58,5 +62,57 @@ nav{
     padding: 10px 20px;
     border: 1px;
     
+    
+}
+.section-1-cont{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 20px;
+   
+}
+.section-1{
+    justify-content: space-between;
+    
+}
+.sce-1{
+    padding: 10px 20px;
+    box-shadow:0px 5px 5px 0px;
+    border-radius: 16px;
+    
+}  
+.section-2-cont{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 20px;}
+    
+    
+
+
+    
+    
+
+
+.section-2{
+    justify-content: space-between;
+    
+} 
+
+.sce{
+    padding: 10px 20px;
+    box-shadow:0px 5px 5px 0px;
+    border-radius: 16px;
+    background-color: #7cb4f9; 
+}
+.sce-2{
+    padding: 10px 20px;
+    box-shadow:0px 5px 5px 0px;
+    border-radius: 16px;
+    background-color: #C6E4D6;
+}
+.sce-3{
+    padding: 10px 20px;
+    box-shadow:0px 5px 5px 0px;
+    border-radius: 16px;
+    background-color: #F7EBCF;
     
 }
