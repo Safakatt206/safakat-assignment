@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-primary{
+    border: 1px;
+    border-color: #006A50;
+    padding: 10px 20px;
+    margin-right: 10px; 
+    border-radius: 5px;
+    font-weight: bold;
+    color: #006A50;
+}
