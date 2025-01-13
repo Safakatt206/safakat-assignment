@@ -2,6 +2,7 @@
     font-family: "Fira Sans", serif;
     font-weight: 100;
     font-style: normal;
+    margin: 20px 200px 5px 200px;
     
 
 }
@@ -40,7 +41,10 @@ nav{
     margin: 30px 10px;
 }
 .banner-pic{
-    width: 580px
+    width: 400px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px;
+    
      
 }
 .f-1{
@@ -84,6 +88,10 @@ nav{
     display: flex;
     gap: 24px;
     margin-bottom: 20px;}
+.foul{
+    font-size: 12px;
+    font-weight: 200;
+}    
     
     
 
@@ -115,4 +123,20 @@ nav{
     border-radius: 16px;
     background-color: #F7EBCF;
     
+    
+}
+.sce-5{
+    background-image:url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+    width: 64;
+    height: 64;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 2);
+    border-radius: 18px;
+    padding: 5px 10px 5px 10px;
+   
+}
+.p-1{
+     color: #2c2b2b;
+     font-size: 12px;
+     width: 200;
 }
